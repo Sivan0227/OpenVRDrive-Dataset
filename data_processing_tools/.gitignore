@@ -1,0 +1,26 @@
+# Cache directories (auto-generated during runtime)
+cache/
+src/cache/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pickle cache files
+*.pkl
+
+# Results directory (auto-generated visualizations)
+# Uncomment if you don't want to track generated plots
+# results/
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/

@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data Processing Cache
+data_processing_tools/cache/
+data_processing_tools/results/
+data_processing_tools/__pycache__/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Large data files (download separately)
+# Uncomment if you don't want to track large data files in Git
+# scenario*/run_artifacts/**/*.log
+# scenario*/run_artifacts/**/*.txt
+# scenario*/run_artifacts/**/*.json
+# scenario*/videos/**/*.mp4
+# scenario*/videos/**/*.avi
+# scenario*/carla_package/**/*.pak
