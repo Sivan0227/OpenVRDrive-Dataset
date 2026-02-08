@@ -2,7 +2,7 @@
 
 ### 📹 Experiment Demonstration Video
 
-**Full Experimental Session Walkthrough**: [Watch on YouTube](#)
+**Full Experimental Session Walkthrough** (Scenario 1): [Watch on YouTube](https://youtu.be/AMHIoUTdG9g) 
 
 *A complete demonstration video showing the VR driving experiment setup, participant instructions, and example trials from this scenario.*
 
@@ -385,8 +385,6 @@ For downloading data from this scenario:
 - [Questionnaire Data](questionnaires/download_link.md)
 - [Behavioral Data (run_artifacts)](run_artifacts/download_link.md)
 - [Video Recordings](videos/download_link.md)
-
-**Scenario 1 Data Size**: Approximately [X] GB
 
 ## Related Publication
 

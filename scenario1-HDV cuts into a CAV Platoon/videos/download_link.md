@@ -3,8 +3,8 @@
 ## Download
 
 **Download Links:**
-- **Google Drive**: [Download from Google Drive](#)
-- **Baidu Netdisk** (百度网盘): [下载链接](#) | 提取码: [XXXX]
+- **Google Drive**: [Download from Google Drive](https://drive.google.com/drive/folders/1kNBfQqfUy5rppLzUsyBjeCDs8ejb-bLU?usp=share_link)
+- **Baidu Netdisk** (百度网盘): [下载链接](https://pan.baidu.com/s/1azarWWA8GZOeVm-7dP5jXA?pwd=8888) | 提取码: 8888
 
 ---
 

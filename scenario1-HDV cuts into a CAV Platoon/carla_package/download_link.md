@@ -4,7 +4,7 @@
 
 **Download Links:**
 - **Google Drive**: [Download from Google Drive](https://drive.google.com/file/d/1Se2j7YQu1jHio4xfEHJAiQx7-7JDtUMP/view?usp=drive_link)
-- **Baidu Netdisk** (百度网盘): [下载链接](#) | 提取码: [XXXX]
+- **Baidu Netdisk** (百度网盘): [下载链接](https://pan.baidu.com/s/1BN5w2h0VL8fEQ8MKz6K28Q?pwd=8888) | 提取码: [8888]
 
 **Version**: CARLA 0.9.13 with `vr_wider` map
 
@@ -306,13 +306,6 @@ CarlaUE4.exe -RenderOffScreen
 **Problem**: Replay shows different vehicle models than experiments
 
 **Solution**: Ensure you're using CARLA 0.9.13. Vehicle blueprints changed between versions.
-
-## Performance Tips
-
-- **Replay Speed**: Normal replay is 1x speed. Cannot be adjusted directly.
-- **Recording Size**: Typical 60-second trial = 400-600 KB
-- **Memory Usage**: ~2 GB RAM for replay
-- **GPU Usage**: Rendering quality affects GPU load
 
 ## Related Documentation
 

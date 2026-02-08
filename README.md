@@ -108,7 +108,7 @@ OpenVRDrive integrates multiple state-of-the-art open-source tools into a unifie
 
 #### 📹 Experiment Demonstration Video
 
-*Full Experimental Session Walkthrough** (Scenario 1): [Watch on YouTube](#)
+*Full Experimental Session Walkthrough** (Scenario 1): [Watch on YouTube](https://youtu.be/AMHIoUTdG9g)
 
 The OpenVRDrive-Dataset is designed as an **expandable multi-scenario dataset series**. Each scenario focuses on a specific HDV-CAV interaction pattern, providing comprehensive multi-modal data following standardized formats.
 
@@ -367,8 +367,6 @@ This dataset can support various research directions:
 
 ## Download
 
-**Total Dataset Size**: Approximately [X] GB (uncompressed)
-
 ### Current Release: Scenario 1 Data
 
 All data files for **Scenario 1 (HDV Cuts into a CAV Platoon)** are available through the links below. Each data component is hosted on both Google Drive and Baidu Netdisk (百度网盘) for accessibility.
@@ -409,26 +407,28 @@ OpenVRDrive-Dataset is mainly supported by the School of Transportation at South
 
 ### Lab Principal Investigator:
 
-- Prof. Zhibin Li ([Southeast University])
+- **Prof. Zhibin Li** (Southeast University)
 
-### Project Lead:
+### Project Leader:
 
-- Bowen Liu
+- **Bowen Liu** (Southeast University)
 
 ### Team Members:
 
-- Shenlingrui Yang
-- Hao Li
-- Di Han
-- Yutong Wang
+- **Shenlingrui Yang** (Peking University)
+- **Yutong Wang** (Southeast University)
+- **Hao Li** (Southeast University)
+- **Di Han** (Southeast University)
 
 ### External Contributor Acknowledgements
 
 We would like to acknowledge the great contributions from Nanyang Technological University (NTU), particularly:
-- **Prof. Feng Zhu**: Co-supervision and technical guidance throughout the research
-- **Dr. Meng Li**: Data analysis methodology
+- **Prof. Feng Zhu**: Co-supervision
+- **Dr. Meng Li**: Technical guidance throughout the research
 
-We gratefully acknowledge:
+
+We also gratefully acknowledge:
+- **Dr. Lei Ling**:  Co-supervision
 - All 60 participants who volunteered their time
 - Technical support from the CARLA, OpenCDA, and SUMO communities
 ---

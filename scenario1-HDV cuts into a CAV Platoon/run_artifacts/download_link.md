@@ -4,13 +4,12 @@
 
 **Download Links:**
 - **Google Drive**: [Download from Google Drive](https://drive.google.com/drive/folders/1ixFzhkEnIM2vLZJF8hQ7Bcm9Ad15Xf51?usp=drive_link)
-- **Baidu Netdisk** (百度网盘): [下载链接](#) | 提取码: [XXXX]
+- **Baidu Netdisk** (百度网盘): [下载链接](https://pan.baidu.com/s/1n2DeJ062kHfLH5a5xwgTRg?pwd=8888)| 提取码: [8888]
 
 **Package Contents**:
 - Complete run artifacts for all 60 participants
 - Organized by participant ID (00-59)
 - Includes `.log`, `.txt`, and `.json` files for each trial
-- **Size**: ~2.7 GB (compressed), ~5.5 GB (uncompressed)
 
 **After Downloading**:
 1. Extract the archive to the `run_artifacts/` directory
@@ -88,8 +87,6 @@ Format: `mandatory_[cav_speed, time_gap, platoon_size].{ext}`
 - Physics simulation data
 - Traffic light states
 - Sensor data references
-
-**Size**: Typically 300-600 KB per trial
 
 **Usage**: 
 - Input for CARLA's `show_recorder_file_info.py` script
@@ -210,19 +207,8 @@ run_artifacts/
     └── ...
 ```
 
-## File Size Summary
-
-Typical file sizes per trial:
-
-| File Type | Size Range | Average |
-|-----------|------------|---------|
-| `.log` | 300-600 KB | ~470 KB |
-| `.txt` | 1-1.5 MB | ~1.3 MB |
-| `.json` | 800-1200 KB | ~1 MB |
-| **Total per trial** | 2.1-3.3 MB | ~2.8 MB |
-
 **Total Dataset Size Estimate**:
-- 60 participants × 16 trials × 2.8 MB ≈ **2.7 GB** (compressed)
+- 60 participants × 16 trials
 - Actual size may vary based on trial duration and number of actors
 
 ## Data Processing Workflow
